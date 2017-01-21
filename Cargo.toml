@@ -1,0 +1,9 @@
+[package]
+name = "ct"
+version = "0.1.0"
+authors = ["Liam Zdenek <liamzdenek@gmail.com>"]
+
+[dependencies]
+futures = "*"
+tokio-proto = "*"
+tokio-core = "*"
